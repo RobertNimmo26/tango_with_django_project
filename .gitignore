@@ -1,6 +1,5 @@
-/rango/__pycache__
-/db.sqlite3
+__pycache__/
 /rango/tests_chapters.py
-/.vscode
+.vscode
 db.sqlite3
-/.gitignore
+.gitignore
